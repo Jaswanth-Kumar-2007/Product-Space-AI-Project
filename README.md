@@ -10,3 +10,31 @@ This bot makes it as easy as asking a question in plain English:
 If the answer exists in internal docs → it shows the snippet directly.
 
 If not → it falls back to Groq LLM for a general answer.
+
+✨ Features
+
+📂 Document indexing with ChromaDB (persistent storage).
+
+🤖 Groq LLM fallback when no relevant doc is found.
+
+🔎 Semantic search using sentence-transformers.
+
+🖥️ Streamlit UI for quick interaction.
+
+⚡ Real-time distance scoring (helps tune results).
+
+🛠️ Tech Stack
+
+Python 3.10+
+
+Streamlit
+ – frontend UI
+
+ChromaDB
+ – vector database
+
+Sentence-Transformers
+ – embeddings
+
+Groq API
+ – LLM fallback
