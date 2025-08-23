@@ -42,10 +42,9 @@ Sentence-Transformers
 📂 Project Structure 
 .
 ├── docs/                 # Folder containing your internal text files
-├── chroma_db/            # Persistent Chroma vector database
-├── index_docs.py         # Script to index documents into Chroma
+├── build_db.py           # Script to index documents into Chroma
 ├── app.py                # Streamlit Q&A app (Docs + Groq fallback)
-├── requirements.txt
+├── query_test.py         #To Build the query Format
 └── README.md
 ```
 
