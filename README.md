@@ -38,7 +38,7 @@ Sentence-Transformers
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<code>```
+```
 📂 Project Structure 
 .
 ├── docs/                 # Folder containing your internal text files
@@ -47,13 +47,14 @@ Sentence-Transformers
 ├── app.py                # Streamlit Q&A app (Docs + Groq fallback)
 ├── requirements.txt
 └── README.md
-</code>
+'''
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⚡ Quick Start
 1.Clone Repository
-<code>'''bash
+'''bash
 git clone https://github.com/Jaswanth-Kumar-2007/Product-Space-AI-Project.git
 cd Product-Space-AI-Project
 </code>
