@@ -35,8 +35,10 @@ ChromaDB
 
 Sentence-Transformers
  – embeddings
-<code>
-```bash 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<code>```
 📂 Project Structure
 .
 ├── docs/                 # Folder containing your internal text files
@@ -46,6 +48,13 @@ Sentence-Transformers
 ├── requirements.txt
 └── README.md
 </code>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+⚡ Quick Start
+<code>'''bash
+git clone 
+
 
 
 Groq API
