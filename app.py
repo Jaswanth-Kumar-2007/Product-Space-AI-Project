@@ -8,7 +8,7 @@ import os
 embedder = SentenceTransformer("all-MiniLM-L6-v2")
 
 # Groq client
-
+groq_api_key = os.getenv("GROQ_API_KEY", "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")
 client_groq = Groq(api_key=groq_api_key)
 
 # Persistent Chroma setup
@@ -58,3 +58,4 @@ if question:
 
         answer = response.choices[0].message.content
         st.write("🤖 *Answer :*", answer)
+
