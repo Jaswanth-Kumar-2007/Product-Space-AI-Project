@@ -47,42 +47,42 @@ Sentence-Transformers
 ├── app.py                # Streamlit Q&A app (Docs + Groq fallback)
 ├── requirements.txt
 └── README.md
-'''
+```
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⚡ Quick Start
 1.Clone Repository
-'''bash
+```bash
 git clone https://github.com/Jaswanth-Kumar-2007/Product-Space-AI-Project.git
 cd Product-Space-AI-Project
-</code>
+```
 
 2.Create a Virtual Environment
-<code>'''python
+```python
 python -m venv venv
 source venv/bin/activate     #Mac/Linux
 venv\script\activate         #Windows
-</code>
+```
 
 3.Install Required Packages
-<code>'''python
+```python
 pip install chromadb sentence-transformer streamlit
-</code>
+```
 
 4.Running Code
-<code>'''python
+```python
 python build_db.py
-</code>
+```
 
-<code>'''python
+```python
 python query_test.py
-</code>
+```
 
-<code>'''python
+```python
 streamlit run app.py
-</code>
+```
 
 🫱 A Web UI opens at http://localhost:8501 where you can Ask Questions
 
