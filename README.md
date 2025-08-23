@@ -35,7 +35,8 @@ ChromaDB
 
 Sentence-Transformers
  – embeddings
- 
+<code>
+```bash 
 📂 Project Structure
 .
 ├── docs/                 # Folder containing your internal text files
@@ -44,6 +45,7 @@ Sentence-Transformers
 ├── app.py                # Streamlit Q&A app (Docs + Groq fallback)
 ├── requirements.txt
 └── README.md
+</code>
 
 
 Groq API
