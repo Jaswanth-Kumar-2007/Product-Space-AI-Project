@@ -35,6 +35,16 @@ ChromaDB
 
 Sentence-Transformers
  – embeddings
+ 
+📂 Project Structure
+.
+├── docs/                 # Folder containing your internal text files
+├── chroma_db/            # Persistent Chroma vector database
+├── index_docs.py         # Script to index documents into Chroma
+├── app.py                # Streamlit Q&A app (Docs + Groq fallback)
+├── requirements.txt
+└── README.md
+
 
 Groq API
  – LLM fallback
