@@ -1,3 +1,19 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00F700&width=435&lines=Hi+👋+I'm+Jaswanth Kumar;Python Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaswanth-Kumar-2007&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanth-Kumar-2007&layout=compact&theme=tokyonight)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jaswanth-Kumar-2007&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/Jaswanth-Kumar-2007?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/Jaswanth-Kumar-2007?label=Stars&style=social)
+
+
+![Snake animation](https://github.com/YourGitHubUsername/Jaswanth-Kumar-2007/blob/output/github-contribution-grid-snake.svg)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 📑 Internal Docs Q&A Agent 
 
 An AI-powered assistant that helps teams instantly find answers from internal documents (Notion, Google Docs, Confluence, etc.) with a smart fallback to Groq LLM when no relevant document is found.
