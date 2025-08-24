@@ -8,9 +8,6 @@
 ![Followers](https://img.shields.io/github/followers/Jaswanth-Kumar-2007?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/Jaswanth-Kumar-2007?label=Stars&style=social)
 
-
-![Snake animation](https://github.com/YourGitHubUsername/Jaswanth-Kumar-2007/blob/output/github-contribution-grid-snake.svg)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
