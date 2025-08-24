@@ -1,4 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00F700&width=435&lines=Hi+👋+I'm+Jaswanth Kumar;Python Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Jaswanth%20Kumar&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Jaswanth+Kumar;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
 
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaswanth-Kumar-2007&show_icons=true&theme=radical)
 
