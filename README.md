@@ -63,7 +63,7 @@ cd Product-Space-AI-Project
 ```python
 python -m venv venv
 source venv/bin/activate     #Mac/Linux
-venv\script\activate         #Windows
+venv\Scripts\activate         #Windows
 ```
 
 3.Install Required Packages
