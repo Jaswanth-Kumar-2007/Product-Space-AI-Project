@@ -8,7 +8,7 @@ import os
 embedder = SentenceTransformer("all-MiniLM-L6-v2")
 
 # Groq client
-groq_api_key = os.getenv("GROQ_API_KEY", "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")
+groq_api_key = os.getenv("GROQ_API_KEY", "Enter-Grok-ID")
 client_groq = Groq(api_key=groq_api_key)
 
 # Persistent Chroma setup
@@ -36,7 +36,7 @@ if question:
     distance = results["distances"][0][0] if results["distances"][0] else None
 
     # 🔧 Similarity threshold (tune between 0.2–0.35)
-    threshold = 0.8
+    threshold = 1.3
 
     st.write(f"🔍 Best match distance: {distance}")  # debug info
 
@@ -58,4 +58,5 @@ if question:
 
         answer = response.choices[0].message.content
         st.write("🤖 *Answer :*", answer)
+
 
