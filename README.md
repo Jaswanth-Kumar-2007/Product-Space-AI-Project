@@ -111,16 +111,19 @@ venv\Scripts\activate         #Windows
 
 3.Install Required Packages
 ```python
-pip install chromadb sentence-transformer streamlit
+pip install chromadb sentence-transformers streamlit
 ```
 
 4.Running Code
 ```python
-python build_db.py
+python query_test.py
 ```
 
 ```python
-python query_test.py
+python build_db.py
+```
+```python
+pip install Groq
 ```
 
 ```python
