@@ -45,10 +45,13 @@
 
 An AI-powered assistant that helps teams instantly find answers from internal documents (Notion, Google Docs, Confluence, etc.) with a smart fallback to Groq LLM when no relevant document is found.
 
+```
 TEAM NAME : POWER PAIR 
 TEAM MEMBERS : SATHVIK MANNE AND JASWANTH KUMAR KAMIREDDI
 
-WE BUILT THIS IT WILL HELPS TO GIVE BY USING CHROMADB AND GROK AI . IT WILL USE PROBABILITY CONCEPT TO CALCULATE DISTANCE . IF IT NEAR GO THOUGH UPLOADED DOCS OR ELSE GO THROUGH GROQ LLM .
+READ THIS❗
+🔰🔰🔰 WE BUILT THIS IT WILL HELPS TO GIVE BY USING CHROMADB AND GROK AI . IT WILL USE PROBABILITY CONCEPT TO CALCULATE DISTANCE . IF IT NEAR GO THOUGH UPLOADED DOCS OR ELSE GO THROUGH GROQ LLM .🔰🔰🔰
+```
 
 🚀 Why we built this
 
@@ -137,14 +140,11 @@ streamlit run app.py
 
 🫱 A Web UI opens at http://localhost:8501 where you can Ask Questions
 
+------------------------------------------------------------------
+
 ##DEMO VIDEO 
-<iframe width="560" height="315" 
-src="https://youtu.be/RHuIljdvqCw" 
-title="YouTube video player" 
-frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen>
-</iframe>
+
+[![Watch the video](https://img.youtube.com/RHuIljdvqCw/maxresdefault.jpg)](https://youtu.be/RHuIljdvqCw)
 
 
 
